@@ -1,0 +1,15 @@
+{
+  "name": "tmdb-cli",
+  "version": "1.0.0",
+  "description": "TMDB CLI tool for fetching movie information",
+  "main": "tmdb-cli.js",
+  "bin": {
+    "tmdb-app": "./tmdb-cli.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "yargs": "^17.7.2"
+  }
+}
