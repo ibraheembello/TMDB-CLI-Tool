@@ -2,6 +2,8 @@
 
 A Node.js CLI for fetching movie information from The Movie Database (TMDB).
 
+Project based on: [roadmap.sh TMDB CLI Project](https://roadmap.sh/projects/tmdb-cli)
+
 ## Setup
 
 1. Install dependencies:
